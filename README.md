@@ -1,8 +1,8 @@
 # Multiples-SSH-commands-with-list
 
-i created this script to send multiple commands to routerboards with ssh, 
-the usage is simple, just need to install paramiko and put a list of hosts in a TXT named "clientlist.txt" in same folder 
-all the hosts need to have the be same user, password, and ssh port.
+I created this script to send multiple commands to routerboards with ssh, 
+the usage is simple, just need to install paramiko and put a list of hosts in a TXT named "clientlist.txt" in same folder.
+All the hosts need to have the be same user, password, and ssh port.
 
 the variable
 
